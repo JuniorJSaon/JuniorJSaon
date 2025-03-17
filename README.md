@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 -->
 
-<p style="font-size: 20px" align="center">Interested in</p>
+<p style="font-size: 20px" align="center">Interested in: </p>
 <p align="center">
   <img width="150" src="https://frida.re/img/logotype.svg">
 </p>
