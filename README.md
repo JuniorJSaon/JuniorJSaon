@@ -1,8 +1,8 @@
 <!-- ## Hi there 👋 -->
 
-<!-- <p align="center"> -->
-<img style="display: none;" src="https://moe-counter.glitch.me/get/@fijay?theme=rule34" hidden="hidden">
-<!-- </p> -->
+<p align="center">
+  <img style="display: none;" src="https://moe-counter.glitch.me/get/@fijay?theme=rule34" hidden="hidden">
+</p>
 <!--
 **KermitFiJay/KermitFiJay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
