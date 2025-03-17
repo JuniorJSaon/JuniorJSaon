@@ -1,7 +1,7 @@
 <!-- ## Hi there 👋 -->
 
 <!-- <p align="center"> -->
-  <img style="display: none;" hidden src="https://moe-counter.glitch.me/get/@fijay?theme=rule34">
+<img style="display: none;" src="https://moe-counter.glitch.me/get/@fijay?theme=rule34" hidden="hidden">
 <!-- </p> -->
 <!--
 **KermitFiJay/KermitFiJay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
