@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 <br>
 
+> Note: This README showcases my current technical skills and learning interests. I'm always expanding my knowledge! 
 
 <p align="center">
   <img style="display: none;" src="https://moe-counter.glitch.me/get/@fijay?theme=rule34" hidden="hidden">
 </p>
-> Note: This README showcases my current technical skills and learning interests. I'm always expanding my knowledge! 
 
 <!--
 Experience: --soon
