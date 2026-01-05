@@ -130,7 +130,7 @@ Here are some ideas to get you started:
   <div style="background: linear-gradient(135deg, #ffd700 0%, #daa520 25%, #b8860b 50%, #daa520 75%, #ffd700 100%); padding: 8px; border-radius: 20px; box-shadow: 0 4px 15px rgba(218, 165, 32, 0.5); position: relative; display: inline-block;">
     <div style="background: black; padding: 5px; border-radius: 15px;">
       <img alt="Frida" width="60" src="https://frida.re/img/logotype.svg" 
-           style="vertical-align: middle; border-radius: 10px; display: block;">
+     style="border: 4px solid #FFD700; border-radius: 10px; padding: 5px; box-shadow: 0 0 10px #FFD700;">
     </div>
   </div>
 </td>
